@@ -9,7 +9,7 @@
 * In the next step, we aimed to predict `value_counts` including the number of loans that were expected  to be either healthy or high risk loans. In doing so, we evaluated different variables such as the accuracy, precision, recall, and F1 scores. 
 
 
-* Using the original dataset, we performed  a `LogisticRegression` analysis upon splitting the data into training and testing sets to properly train the model for future predictions. We then used  a resampled dataset and conducted the Random OverSampler technique to improve the accuracy and identify the model with the best perfoming features including accuracy, precision, recall, and F1 score.
+* Using the original dataset, we performed  a `LogisticRegression` analysis upon splitting the data into training and testing sets to properly train the model for future predictions. We then used  a resampled dataset and conducted the Random OverSampler technique to improve the accuracy and identify the model with the best perfoming features including accuracy, precision, and recall.
 
 
 ## Results
