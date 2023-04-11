@@ -36,5 +36,5 @@
 ## Summary
 
 
-* Comparaing the two models and looking at accuracy, precision, and recall for each model, model 2 appears to perform slightly better in  predicting the risky loans, therefore, I would selecr model 2 with resampled data.
+* Comparaing the two models and looking at accuracy, precision, and recall for each model, model 2 appears to perform slightly better in  predicting the risky loans, therefore, I would select the model 2 with resampled data.
 
